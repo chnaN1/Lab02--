@@ -49,3 +49,9 @@ Console.WriteLine("Введите ваше имя:");
 string enteredGroup = Console.ReadLine();
 
 Console.WriteLine($"Здравствуйте, {enteredGroup} из группы {enteredGroup}!");
+
+Console.WriteLine();
+Console.WriteLine("Ввод чисел: Convert и Parse");
+
+Console.WriteLine("Введите  ваш год рождения: ");
+git add . 
