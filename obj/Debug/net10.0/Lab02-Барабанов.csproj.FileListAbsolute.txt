@@ -12,3 +12,4 @@ C:\Users\Student_11\Documents\Lab02-Барабанов\obj\Debug\net10.0\refint\
 C:\Users\Student_11\Documents\Lab02-Барабанов\obj\Debug\net10.0\Lab02-Барабанов.pdb
 C:\Users\Student_11\Documents\Lab02-Барабанов\obj\Debug\net10.0\Lab02-Барабанов.genruntimeconfig.cache
 C:\Users\Student_11\Documents\Lab02-Барабанов\obj\Debug\net10.0\ref\Lab02-Барабанов.dll
+C:\Users\Student_11\Documents\Lab02-Барабанов\obj\Debug\net10.0\Lab02-Барабанов.sourcelink.json
